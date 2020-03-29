@@ -13,7 +13,7 @@ module.exports = {
         "incidents.*",
         "ongs.name",
         "ongs.email",
-        "onges.whatsapp",
+        "ongs.whatsapp",
         "ongs.city",
         "ongs.uf"
       ]);
